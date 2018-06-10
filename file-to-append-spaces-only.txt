@@ -1,0 +1,1 @@
+Spaces will be appended to this file and thus it will be ignored in the diff.
